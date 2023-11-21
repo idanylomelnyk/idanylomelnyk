@@ -1,4 +1,4 @@
-## 👋 Hello, there!
+## 👋 Hello there!
 
 ### 💼 About Me
 I'm a frontend developer specializing in crafting diverse websites using contemporary web development techniques. My focus lies in enhancing visual design and ensuring optimal website functionality. Proficient in HTML, CSS, and JavaScript, I excel in creating engaging and user-friendly interfaces.
