@@ -12,7 +12,7 @@ My experience extends to platforms like WordPress and OpenCart. Leveraging these
 - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black&style=flat) ![Gulp](https://img.shields.io/badge/-Gulp-CF4647?logo=gulp&logoColor=white&style=flat)
 - ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat) ![OpenCart](https://img.shields.io/badge/-OpenCart-DD4814?logo=opencart&logoColor=white&style=flat)
 
-### 🌟 Projects
+### 🌟 Portfolio
 - [Bistro-Bliss](https://idanylomelnyk.github.io/bistro-bliss/)
 
 ### 📞 Contact
