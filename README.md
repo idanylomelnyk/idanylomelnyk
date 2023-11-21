@@ -16,6 +16,6 @@ My experience extends to platforms like WordPress and OpenCart. Leveraging these
 - [Bistro-Bliss](https://idanylomelnyk.github.io/bistro-bliss/)
 
 ### 📞 Contact
-- 📱 [Telegram](t.me/idanylomelnyk)
+- 📱 [Telegram](https://t.me/idanylomelnyk)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/idanylomelnyk/)
-- 📧 [Email](idanylomelnyk@gmail.com)
+- 📧 [Email](https://idanylomelnyk@gmail.com)
